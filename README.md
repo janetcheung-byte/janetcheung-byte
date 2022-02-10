@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Exploratory Data Analysis Project - Ames, Iowa housing data](https://github.com/janetcheung-byte/ames_housing)
 
-- 📫 How to reach me **janetcheung897@gmail.com**
-
 - ⚡ Fun fact **I am a coffee/tea connoisseur**
 
 <h3 align="left">Connect with me:</h3>
