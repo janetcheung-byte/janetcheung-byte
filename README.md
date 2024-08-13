@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janetcheung-byte" alt="janetcheung-byte" /></a> </p>
 
-- 🔭 I’m currently working on [Exploratory Data Analysis Project - Ames, Iowa housing data](https://github.com/janetcheung-byte/ames_housing)
+- 🔭 I’m currently working on [Bike Stores Sales Analysis - SQL, Excel, Tableau](https://github.com/janetcheung-byte/bikestores_analysis)
 
 - ⚡ Fun fact **I am a coffee/tea connoisseur**
 
