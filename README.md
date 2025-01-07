@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janetcheung-byte" alt="janetcheung-byte" /></a> </p>
 
-- 🔭 I’m currently working on [Bike Stores Sales Analysis - SQL, Excel, Tableau](https://github.com/janetcheung-byte/bikestores_analysis)
+- 🔭 I’m currently working on [Anomaly Detection Using K-Means Clustering and Random Forest Classification](https://github.com/janetcheung-byte/anomaly_detection)
 
 - ⚡ Fun fact **I am a coffee/tea connoisseur**
 
